@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+<br>I’m currently working as a Machine Learning Engineer at <a href="https://htasia.com/">HT Consulting</a> in Petaling Jaya (Malaysia).<br><br>
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+My main focus is to develop machine learning models applied in computer vision problems.
